@@ -21,6 +21,3 @@ gen/
 .project
 .DS_Store
 
-# Others files
-/test/
-!/test/test.txt
