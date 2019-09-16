@@ -1,6 +1,6 @@
 
 /**
- * This package include some useful tools.
+ * This package includes some useful tools.
  * 1.use recursive method to find files.
  * 
  *
